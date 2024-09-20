@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-29GPQVBNNN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-29GPQVBNNN');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogos Bíblicos</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Arial Rounded MT Bold', 'Arial', sans-serif;
+            overflow: hidden;
+        }
+        .background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+        .container {
+            position: relative;
+            z-index: 1;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3.5em;
+            color: #FFF;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 40px;
+        }
+        .btn {
+            display: block;
+            width: 280px;
+            padding: 18px;
+            margin: 20px auto;
+            font-size: 1.2em;
+            color: #FFF;
+            background-color: rgba(255, 179, 71, 0.8);
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+            background-color: rgba(255, 165, 0, 0.9);
+        }
+        .instagram-link {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #FFF;
+            text-decoration: none;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+        }
+        .instagram-icon {
+            width: 24px; /* Ajuste o tamanho conforme necessário */
+            height: 24px;
+            margin-left: 8px; /* Espaço entre o texto e o ícone */
+        }
+    </style>
+</head>
+<body>
+    <svg class="background" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+        <!-- Céu -->
+        <defs>
+            <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#E6E6FA;stop-opacity:1" />
+            </linearGradient>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#skyGradient)"/>
+        
+        <!-- Sol -->
+        <circle cx="800" cy="200" r="60" fill="#FFD700"/>
+        
+        <!-- Montanhas ao fundo -->
+        <path d="M0 400 Q 250 200 500 400 T 1000 400 V 1000 H 0 Z" fill="#4B0082" opacity="0.6"/>
+        <path d="M0 500 Q 250 300 500 500 T 1000 500 V 1000 H 0 Z" fill="#800080" opacity="0.4"/>
+        
+        <!-- Colina do Calvário -->
+        <path d="M0 600 Q 500 400 1000 600 V 1000 H 0 Z" fill="#8B4513"/>
+        
+        <!-- Cruz (posição ajustada) -->
+        <rect x="480" y="250" width="40" height="250" fill="#4B3621"/>
+        <rect x="400" y="300" width="200" height="40" fill="#4B3621"/>
+    </svg>
+
+    <div class="container">
+        <h1>Jogos Bíblicos</h1>
+        <a href="003.quiz-versiculos.html" class="btn">Quiz para Decorar Versículos</a>
+        <a href="008.quiz-curiosidades.html" class="btn">Quiz Curiosidades</a>
+        <a href="https://www.instagram.com/lucassbenvenutti/" class="instagram-link" target="_blank">
+            Siga-me no Instagram
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" class="instagram-icon">
+        </a>
+    </div>
+</body>
+</html>

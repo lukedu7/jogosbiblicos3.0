@@ -1,0 +1,211 @@
+[
+    {
+        "pergunta": "Qual era o nome da esposa de Abraão?",
+        "alternativas": [
+            "Sara",
+            "Rebeca",
+            "Raquel",
+            "Lia"
+        ],
+        "correta": "Sara",
+        "referencia": "Gênesis 17:15"
+    },
+    {
+        "pergunta": "Quem era o pai de João Batista?",
+        "alternativas": [
+            "Zacarias",
+            "José",
+            "Joaquim",
+            "Zebedeu"
+        ],
+        "correta": "Zacarias",
+        "referencia": "Lucas 1:13"
+    },
+    {
+        "pergunta": "Qual era o nome do monte onde Moisés recebeu os Dez Mandamentos?",
+        "alternativas": [
+            "Sinai",
+            "Carmelo",
+            "Horebe",
+            "Tabor"
+        ],
+        "correta": "Sinai",
+        "referencia": "Êxodo 19:20"
+    },
+    {
+        "pergunta": "Quem era o governador romano quando Jesus foi crucificado?",
+        "alternativas": [
+            "Pôncio Pilatos",
+            "Herodes",
+            "César Augusto",
+            "Tibério"
+        ],
+        "correta": "Pôncio Pilatos",
+        "referencia": "Mateus 27:2"
+    },
+    {
+        "pergunta": "Qual era o nome do discípulo que Jesus amava?",
+        "alternativas": [
+            "João",
+            "Pedro",
+            "Tiago",
+            "André"
+        ],
+        "correta": "João",
+        "referencia": "João 13:23"
+    },
+    {
+        "pergunta": "Quem era o rei de Judá quando Jerusalém foi destruída pelos babilônios?",
+        "alternativas": [
+            "Zedequias",
+            "Josias",
+            "Ezequias",
+            "Manassés"
+        ],
+        "correta": "Zedequias",
+        "referencia": "2 Reis 25:1-7"
+    },
+    {
+        "pergunta": "Qual era o nome do servo de Abraão que foi buscar uma esposa para Isaque?",
+        "alternativas": [
+            "Eliézer",
+            "Ismael",
+            "Lot",
+            "Jacó"
+        ],
+        "correta": "Eliézer",
+        "referencia": "Gênesis 24:2-4"
+    },
+    {
+        "pergunta": "Quem foi o pai de Matusalém?",
+        "alternativas": [
+            "Enoque",
+            "Noé",
+            "Lameque",
+            "Sete"
+        ],
+        "correta": "Enoque",
+        "referencia": "Gênesis 5:21"
+    },
+    {
+        "pergunta": "Qual era o nome da esposa de Moisés?",
+        "alternativas": [
+            "Zípora",
+            "Miriã",
+            "Débora",
+            "Raquel"
+        ],
+        "correta": "Zípora",
+        "referencia": "Êxodo 2:21"
+    },
+    {
+        "pergunta": "Quem foi o último juiz de Israel antes do período dos reis?",
+        "alternativas": [
+            "Samuel",
+            "Sansão",
+            "Gideão",
+            "Eli"
+        ],
+        "correta": "Samuel",
+        "referencia": "1 Samuel 7:15"
+    },
+    {
+        "pergunta": "Qual era o nome do anjo que apareceu a Maria?",
+        "alternativas": [
+            "Gabriel",
+            "Miguel",
+            "Rafael",
+            "Uriel"
+        ],
+        "correta": "Gabriel",
+        "referencia": "Lucas 1:26-27"
+    },
+    {
+        "pergunta": "Quem era o rei de Babilônia quando Daniel interpretou a escrita na parede?",
+        "alternativas": [
+            "Belsazar",
+            "Nabucodonosor",
+            "Ciro",
+            "Dario"
+        ],
+        "correta": "Belsazar",
+        "referencia": "Daniel 5:1-30"
+    },
+    {
+        "pergunta": "Qual era o nome do homem que ajudou Jesus a carregar a cruz?",
+        "alternativas": [
+            "Simão de Cirene",
+            "José de Arimatéia",
+            "Nicodemos",
+            "Barrabás"
+        ],
+        "correta": "Simão de Cirene",
+        "referencia": "Marcos 15:21"
+    },
+    {
+        "pergunta": "Qual era o nome do profeta que ungiu Davi como rei?",
+        "alternativas": [
+            "Samuel",
+            "Natã",
+            "Elias",
+            "Isaías"
+        ],
+        "correta": "Samuel",
+        "referencia": "1 Samuel 16:13"
+    },
+    {
+        "pergunta": "Quem era o rei de Israel quando Elias enfrentou os profetas de Baal?",
+        "alternativas": [
+            "Acabe",
+            "Jeroboão",
+            "Omri",
+            "Jeú"
+        ],
+        "correta": "Acabe",
+        "referencia": "1 Reis 18:1-46"
+    },
+    {
+        "pergunta": "Qual era o nome do(a) irmão/irmã de Moisés e Arão?",
+        "alternativas": [
+            "Miriã",
+            "Hur",
+            "Jetro",
+            "Josué"
+        ],
+        "correta": "Miriã",
+        "referencia": "Números 26:59"
+    },
+    {
+        "pergunta": "Quem era a mãe de Salomão?",
+        "alternativas": [
+            "Bate-Seba",
+            "Abigail",
+            "Mical",
+            "Ainoã"
+        ],
+        "correta": "Bate-Seba",
+        "referencia": "2 Samuel 12:24"
+    },
+    {
+        "pergunta": "Qual era o nome do homem que Jesus ressuscitou em Betânia?",
+        "alternativas": [
+            "Lázaro",
+            "Jairo",
+            "Bartimeu",
+            "Zaqueu"
+        ],
+        "correta": "Lázaro",
+        "referencia": "João 11:1-44"
+    },
+    {
+        "pergunta": "Quem era o rei de Judá quando Isaías começou seu ministério profético?",
+        "alternativas": [
+            "Uzias",
+            "Ezequias",
+            "Manassés",
+            "Josias"
+        ],
+        "correta": "Uzias",
+        "referencia": "Isaías 1:1"
+    }
+]

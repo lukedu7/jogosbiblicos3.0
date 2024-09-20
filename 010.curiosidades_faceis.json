@@ -1,0 +1,211 @@
+[
+    {
+        "pergunta": "Quem construiu a arca?",
+        "alternativas": [
+            "Noé",
+            "Moisés",
+            "Abraão",
+            "Davi"
+        ],
+        "correta": "Noé",
+        "referencia": "Gênesis 6:14"
+    },
+    {
+        "pergunta": "Qual era o nome do gigante que Davi derrotou?",
+        "alternativas": [
+            "Golias",
+            "Sansão",
+            "Saul",
+            "Absalão"
+        ],
+        "correta": "Golias",
+        "referencia": "1 Samuel 17:4"
+    },
+    {
+        "pergunta": "Quem foi lançado na cova dos leões?",
+        "alternativas": [
+            "Daniel",
+            "Jonas",
+            "Elias",
+            "Paulo"
+        ],
+        "correta": "Daniel",
+        "referencia": "Daniel 6:16"
+    },
+    {
+        "pergunta": "Quantos dias e noites Jesus jejuou no deserto?",
+        "alternativas": [
+            "40",
+            "30",
+            "20",
+            "10"
+        ],
+        "correta": "40",
+        "referencia": "Mateus 4:2"
+    },
+    {
+        "pergunta": "Quem foi engolido por um grande peixe?",
+        "alternativas": [
+            "Jonas",
+            "Pedro",
+            "Moisés",
+            "Elias"
+        ],
+        "correta": "Jonas",
+        "referencia": "Jonas 1:17"
+    },
+    {
+        "pergunta": "Qual o nome do jardim onde Adão e Eva viviam?",
+        "alternativas": [
+            "Éden",
+            "Getsêmani",
+            "Babilônia",
+            "Canaã"
+        ],
+        "correta": "Éden",
+        "referencia": "Gênesis 2:8"
+    },
+    {
+        "pergunta": "Quem recebeu os Dez Mandamentos de Deus?",
+        "alternativas": [
+            "Moisés",
+            "Abraão",
+            "Josué",
+            "Davi"
+        ],
+        "correta": "Moisés",
+        "referencia": "Êxodo 20:1-17"
+    },
+    {
+        "pergunta": "Qual o nome do filho de Abraão e Sara?",
+        "alternativas": [
+            "Isaque",
+            "Ismael",
+            "Jacó",
+            "Esaú"
+        ],
+        "correta": "Isaque",
+        "referencia": "Gênesis 21:3"
+    },
+    {
+        "pergunta": "Quem traiu Jesus por 30 moedas de prata?",
+        "alternativas": [
+            "Judas",
+            "Pedro",
+            "Tomé",
+            "João"
+        ],
+        "correta": "Judas",
+        "referencia": "Mateus 26:14-15"
+    },
+    {
+        "pergunta": "Qual o nome do rio onde Jesus foi batizado?",
+        "alternativas": [
+            "Jordão",
+            "Nilo",
+            "Eufrates",
+            "Tigre"
+        ],
+        "correta": "Jordão",
+        "referencia": "Mateus 3:13"
+    },
+    {
+        "pergunta": "Quem negou Jesus três vezes?",
+        "alternativas": [
+            "Pedro",
+            "João",
+            "Tiago",
+            "André"
+        ],
+        "correta": "Pedro",
+        "referencia": "Mateus 26:69-75"
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "alternativas": [
+            "Saul",
+            "Davi",
+            "Salomão",
+            "Samuel"
+        ],
+        "correta": "Saul",
+        "referencia": "1 Samuel 10:1"
+    },
+    {
+        "pergunta": "Qual o nome da mãe de Jesus?",
+        "alternativas": [
+            "Maria",
+            "Isabel",
+            "Ana",
+            "Marta"
+        ],
+        "correta": "Maria",
+        "referencia": "Mateus 1:16"
+    },
+    {
+        "pergunta": "Quem escreveu a maior parte dos Salmos?",
+        "alternativas": [
+            "Davi",
+            "Salomão",
+            "Moisés",
+            "Asafe"
+        ],
+        "correta": "Davi",
+        "referencia": "Vários Salmos são atribuídos a Davi"
+    },
+    {
+        "pergunta": "Quantos apóstolos Jesus escolheu?",
+        "alternativas": [
+            "12",
+            "10",
+            "7",
+            "3"
+        ],
+        "correta": "12",
+        "referencia": "Mateus 10:1-4"
+    },
+    {
+        "pergunta": "Como é o nome de Paulo em hebraico?",
+        "alternativas": [
+            "Saulo",
+            "Silas",
+            "Barnabé",
+            "Timóteo"
+        ],
+        "correta": "Saulo",
+        "referencia": "Atos 13:9"
+    },
+    {
+        "pergunta": "Quem foi o pai de Salomão?",
+        "alternativas": [
+            "Davi",
+            "Saul",
+            "Josias",
+            "Roboão"
+        ],
+        "correta": "Davi",
+        "referencia": "2 Samuel 12:24"
+    },
+    {
+        "pergunta": "Qual profeta foi levado ao céu em um redemoinho?",
+        "alternativas": [
+            "Elias",
+            "Eliseu",
+            "Isaías",
+            "Jeremias"
+        ],
+        "correta": "Elias",
+        "referencia": "2 Reis 2:11"
+    },
+    {
+        "pergunta": "Quem era o irmão de Moisés?",
+        "alternativas": [
+            "Arão",
+            "Josué",
+            "Calebe",
+            "Jetro"
+        ],
+        "correta": "Arão",
+        "referencia": "Êxodo 4:14"
+    }
+]

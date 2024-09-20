@@ -1,0 +1,189 @@
+[
+    {
+        "pergunta": "Qual era o nome do pai de Abraão?",
+        "alternativas": [
+            "Terá",
+            "Naor",
+            "Harã",
+            "Serugue"
+        ],
+        "correta": "Terá",
+        "referencia": "Gênesis 11:26"
+    },
+    {
+        "pergunta": "Quem foi o único juiz de Israel mencionado como sendo canhoto?",
+        "alternativas": [
+            "Eúde",
+            "Gideão",
+            "Jefté",
+            "Sansão"
+        ],
+        "correta": "Eúde",
+        "referencia": "Juízes 3:15"
+    },
+    {
+        "pergunta": "Qual era o nome do escriba que leu a Lei para o povo após o retorno do exílio babilônico?",
+        "alternativas": [
+            "Esdras",
+            "Neemias",
+            "Zorobabel",
+            "Ageu"
+        ],
+        "correta": "Esdras",
+        "referencia": "Neemias 8:1-3"
+    },
+    {
+        "pergunta": "Qual profeta menor era originalmente um criador de gado e cultivador de sicômoros?",
+        "alternativas": [
+            "Amós",
+            "Oséias",
+            "Joel",
+            "Miquéias"
+        ],
+        "correta": "Amós",
+        "referencia": "Amós 7:14"
+    },
+    {
+        "pergunta": "Qual era o nome do servo de Eliseu que foi punido com lepra por sua ganância?",
+        "alternativas": [
+            "Geazi",
+            "Naamã",
+            "Ben-Hadade",
+            "Hazael"
+        ],
+        "correta": "Geazi",
+        "referencia": "2 Reis 5:20-27"
+    },
+    {
+        "pergunta": "Qual era o nome do oficial etíope que salvou Jeremias de morrer em uma cisterna lamacenta?",
+        "alternativas": [
+            "Ebede-Meleque",
+            "Cuxe",
+            "Zedequias",
+            "Gedalias"
+        ],
+        "correta": "Ebede-Meleque",
+        "referencia": "Jeremias 38:7-13"
+    },
+    {
+        "pergunta": "Quem era o avó de Timóteo que é mencionado por nome no Novo Testamento?",
+        "alternativas": [
+            "Maria",
+            "Loide",
+            "Eunice",
+            "Paula"
+        ],
+        "correta": "Não é mencionado",
+        "referencia": "2 Timóteo 1:5"
+    },
+    {
+        "pergunta": "Qual era o nome do demônio que Paulo e Silas expulsaram de uma escrava em Filipos?",
+        "alternativas": [
+            "Não é mencionado",
+            "Legião",
+            "Belzebu",
+            "Apolião"
+        ],
+        "correta": "Não é mencionado",
+        "referencia": "Atos 16:16-18"
+    },
+    {
+        "pergunta": "Quem era o tataravô de Davi?",
+        "alternativas": [
+            "Boaz",
+            "Obede",
+            "Jessé",
+            "Salmom"
+        ],
+        "correta": "Boaz",
+        "referencia": "Rute 4:21-22"
+    },
+    {
+        "pergunta": "Qual era o nome do homem que Paulo ressuscitou em Trôade?",
+        "alternativas": [
+            "Êutico",
+            "Trófimo",
+            "Gaio",
+            "Aristarco"
+        ],
+        "correta": "Êutico",
+        "referencia": "Atos 20:9-10"
+    },
+    {
+        "pergunta": "Quem era o rei de Sodoma quando Abraão resgatou Ló?",
+        "alternativas": [
+            "Bera",
+            "Birsa",
+            "Sinabe",
+            "Quedor-Laomer"
+        ],
+        "correta": "Bera",
+        "referencia": "Gênesis 14:2"
+    },
+    {
+        "pergunta": "Qual era o nome da esposa de Félix, o governador romano que ouviu Paulo?",
+        "alternativas": [
+            "Drusila",
+            "Berenice",
+            "Priscila",
+            "Lídia"
+        ],
+        "correta": "Drusila",
+        "referencia": "Atos 24:24"
+    },
+    {
+        "pergunta": "Quem era o pai de Acã, o homem que pecou tomando coisas consagradas em Jericó?",
+        "alternativas": [
+            "Carmi",
+            "Zabdi",
+            "Zerá",
+            "Judá"
+        ],
+        "correta": "Carmi",
+        "referencia": "Josué 7:1"
+    },
+    {
+        "pergunta": "Qual era o nome do servo de Elias que se tornou seu sucessor?",
+        "alternativas": [
+            "Eliseu",
+            "Geazi",
+            "Obadias",
+            "Micaías"
+        ],
+        "correta": "Eliseu",
+        "referencia": "1 Reis 19:16"
+    },
+    {
+        "pergunta": "Qual era o nome do homem que ajudou Paulo e Barnabé em sua primeira viagem missionária, mas depois os abandonou?",
+        "alternativas": [
+            "João Marcos",
+            "Silas",
+            "Timóteo",
+            "Lucas"
+        ],
+        "correta": "João Marcos",
+        "referencia": "Atos 13:5, 13"
+    },
+    {
+        "pergunta": "Quem era o rei de Tiro que forneceu materiais para a construção do templo de Salomão?",
+        "alternativas": [
+            "Hirão",
+            "Etbaal",
+            "Acabe",
+            "Baal-Zebube"
+        ],
+        "correta": "Hirão",
+        "referencia": "1 Reis 5:1-10"
+    },
+    {
+        "pergunta": "Qual era o nome do homem que Paulo deixou doente em Mileto?",
+        "alternativas": [
+            "Trófimo",
+            "Erasto",
+            "Tíquico",
+            "Onésimo"
+        ],
+        "correta": "Trófimo",
+        "referencia": "2 Timóteo 4:20"
+    }
+]

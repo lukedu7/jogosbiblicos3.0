@@ -1,0 +1,431 @@
+[
+    {
+        "pergunta": "No princípio,",
+        "alternativas": [
+            "Deus criou os céus e a terra",
+            "havia trevas sobre a face do abismo",
+            "o Espírito de Deus pairava sobre as águas",
+            "tudo era sem forma e vazio"
+        ],
+        "correta": "Deus criou os céus e a terra",
+        "referencia": "Gênesis 1:1"
+    },
+    {
+        "pergunta": "O Senhor é a minha força",
+        "alternativas": [
+            "e o meu cântico",
+            "e o meu escudo",
+            "e a minha fortaleza",
+            "e a minha rocha"
+        ],
+        "correta": "e o meu cântico",
+        "referencia": "Êxodo 15:2"
+    },
+    {
+        "pergunta": "O Senhor te abençoe e te guarde;",
+        "alternativas": [
+            "o Senhor faça resplandecer o seu rosto sobre ti",
+            "o Senhor te conceda a paz",
+            "o Senhor te proteja em todos os teus caminhos",
+            "o Senhor seja contigo"
+        ],
+        "correta": "o Senhor faça resplandecer o seu rosto sobre ti",
+        "referencia": "Números 6:24"
+    },
+    {
+        "pergunta": "Clama a mim, e responder-te-ei,",
+        "alternativas": [
+            "e te anunciarei coisas grandes e firmes",
+            "e te livrarei do mal",
+            "e te guiarei por caminhos retos",
+            "e te darei descanso"
+        ],
+        "correta": "e te anunciarei coisas grandes e firmes",
+        "referencia": "Jeremias 33:3"
+    },
+    {
+        "pergunta": "Bendito o homem que confia no Senhor,",
+        "alternativas": [
+            "e cuja confiança é o Senhor",
+            "e que busca a sua face",
+            "e que anda em seus caminhos",
+            "e que guarda os seus mandamentos"
+        ],
+        "correta": "e cuja confiança é o Senhor",
+        "referencia": "Jeremias 17:7"
+    },
+    {
+        "pergunta": "Mas os que esperam no Senhor",
+        "alternativas": [
+            "renovarão as suas forças",
+            "correrão e não se cansarão",
+            "subirão com asas como águias",
+            "andarão e não se fatigarão"
+        ],
+        "correta": "renovarão as suas forças",
+        "referencia": "Isaías 40:31"
+    },
+    {
+        "pergunta": "Mas ele foi ferido por causa das nossas transgressões,",
+        "alternativas": [
+            "e moído por causa das nossas iniquidades",
+            "e sofreu para nos redimir",
+            "e morreu para nos salvar",
+            "e foi ressuscitado para nossa justificação"
+        ],
+        "correta": "e moído por causa das nossas iniquidades",
+        "referencia": "Isaías 53:5"
+    },
+    {
+        "pergunta": "O Senhor é a minha rocha",
+        "alternativas": [
+            "e a minha fortaleza",
+            "e o meu refúgio",
+            "e a minha salvação",
+            "e a minha segurança"
+        ],
+        "correta": "e a minha fortaleza",
+        "referencia": "Salmos 18:2"
+    },
+    {
+        "pergunta": "O Senhor é o meu pastor,",
+        "alternativas": [
+            "nada me faltará",
+            "guia-me pelas veredas da justiça",
+            "me faz repousar em pastos verdejantes",
+            "ainda que eu ande pelo vale da sombra da morte"
+        ],
+        "correta": "nada me faltará",
+        "referencia": "Salmos 23:1"
+    },
+    {
+        "pergunta": "Este é o dia que fez o Senhor;",
+        "alternativas": [
+            "regozijemo-nos e alegremo-nos nele",
+            "sejamos gratos e felizes",
+            "louvemos o seu santo nome",
+            "adoramos com ações de graças"
+        ],
+        "correta": "regozijemo-nos e alegremo-nos nele",
+        "referencia": "Salmos 118:24"
+    },
+    {
+        "pergunta": "Confia no Senhor",
+        "alternativas": [
+            "de todo o teu coração",
+            "e Ele endireitará as tuas veredas",
+            "e Ele te guiará em segurança",
+            "e Ele proverá o que necessitas"
+        ],
+        "correta": "de todo o teu coração",
+        "referencia": "Provérbios 3:5"
+    },
+    {
+        "pergunta": "Há caminho que ao homem parece direito,",
+        "alternativas": [
+            "mas o fim dele são os caminhos da morte",
+            "mas termina em escuridão",
+            "mas leva à destruição",
+            "mas não é o caminho de Deus"
+        ],
+        "correta": "mas o fim dele são os caminhos da morte",
+        "referencia": "Provérbios 14:12"
+    },
+    {
+        "pergunta": "Porque para mim o viver é Cristo,",
+        "alternativas": [
+            "e o morrer é ganho",
+            "e o servir é honra",
+            "e o amar é tudo",
+            "e o pregar é chamado"
+        ],
+        "correta": "e o morrer é ganho",
+        "referencia": "Filipenses 1:21"
+    },
+    {
+        "pergunta": "O meu Deus, segundo as suas riquezas,",
+        "alternativas": [
+            "suprirá todas as vossas necessidades",
+            "te guiará sempre",
+            "te dará o que precisas",
+            "proverá tudo em abundância"
+        ],
+        "correta": "suprirá todas as vossas necessidades",
+        "referencia": "Filipenses 4:19"
+    },
+    {
+        "pergunta": "Porque pela graça sois salvos, por meio da fé;",
+        "alternativas": [
+            "e isto não vem de vós, é dom de Deus",
+            "e isto é a dádiva do Senhor",
+            "e isto é a bênção do Altíssimo",
+            "e isto é a promessa cumprida"
+        ],
+        "correta": "e isto não vem de vós, é dom de Deus",
+        "referencia": "Efésios 2:8"
+    },
+    {
+        "pergunta": "Posso todas as coisas",
+        "alternativas": [
+            "naquele que me fortalece",
+            "pela graça de Deus",
+            "pela fé em Cristo",
+            "pela força do Senhor"
+        ],
+        "correta": "naquele que me fortalece",
+        "referencia": "Filipenses 4:13"
+    },
+    {
+        "pergunta": "E sabemos que todas as coisas cooperam",
+        "alternativas": [
+            "para o bem daqueles que amam a Deus",
+            "para a glória de Deus",
+            "para a paz dos fiéis",
+            "para a edificação dos santos"
+        ],
+        "correta": "para o bem daqueles que amam a Deus",
+        "referencia": "Romanos 8:28"
+    },
+    {
+        "pergunta": "Porque o salário do pecado é a morte,",
+        "alternativas": [
+            "mas o dom gratuito de Deus é a vida eterna",
+            "mas a misericórdia do Senhor dura para sempre",
+            "mas a graça de Deus é a salvação",
+            "mas o amor de Deus nos resgata"
+        ],
+        "correta": "mas o dom gratuito de Deus é a vida eterna",
+        "referencia": "Romanos 6:23"
+    },
+    {
+        "pergunta": "Porque Deus amou o mundo de tal maneira",
+        "alternativas": [
+            "que deu o seu Filho unigênito",
+            "que nos deu a vida eterna",
+            "que ofereceu o Seu melhor",
+            "que nos salvou pela graça"
+        ],
+        "correta": "que deu o seu Filho unigênito",
+        "referencia": "João 3:16"
+    },
+    {
+        "pergunta": "Eu sou o caminho,",
+        "alternativas": [
+            "a verdade e a vida",
+            "a luz do mundo",
+            "o pão da vida",
+            "a porta das ovelhas"
+        ],
+        "correta": "a verdade e a vida",
+        "referencia": "João 14:6"
+    },
+    {
+        "pergunta": "Pedi, e dar-se-vos-á;",
+        "alternativas": [
+            "buscai, e achareis",
+            "clama, e serei ouvido",
+            "batei, e abrir-se-vos-á",
+            "orai, e serei atendido"
+        ],
+        "correta": "buscai, e achareis",
+        "referencia": "Mateus 7:7"
+    },
+    {
+        "pergunta": "Bem-aventurados os pobres de espírito,",
+        "alternativas": [
+            "porque deles é o reino dos céus",
+            "porque herdarão a terra",
+            "porque serão consolados",
+            "porque verão a Deus"
+        ],
+        "correta": "porque deles é o reino dos céus",
+        "referencia": "Mateus 5:3"
+    },
+    {
+        "pergunta": "A minha graça te basta,",
+        "alternativas": [
+            "porque o meu poder se aperfeiçoa na fraqueza",
+            "porque o meu amor é suficiente",
+            "porque a minha força te sustenta",
+            "porque a minha misericórdia é infinita"
+        ],
+        "correta": "porque o meu poder se aperfeiçoa na fraqueza",
+        "referencia": "2 Coríntios 12:9"
+    },
+    {
+        "pergunta": "Mas buscai primeiro",
+        "alternativas": [
+            "o reino de Deus e a sua justiça",
+            "a vontade do Senhor",
+            "a salvação de Deus",
+            "a face do Altíssimo"
+        ],
+        "correta": "o reino de Deus e a sua justiça",
+        "referencia": "Mateus 6:33"
+    },
+    {
+        "pergunta": "E a paz de Deus, que excede todo o entendimento,",
+        "alternativas": [
+            "guardará os vossos corações e as vossas mentes",
+            "vos guiará em toda a verdade",
+            "será com todos vós",
+            "vos dará descanso"
+        ],
+        "correta": "guardará os vossos corações e as vossas mentes",
+        "referencia": "Filipenses 4:7"
+    },
+    {
+        "pergunta": "Combati o bom combate,",
+        "alternativas": [
+            "terminei a corrida, guardei a fé",
+            "e venci a batalha",
+            "e alcancei o prêmio",
+            "e agora recebo a coroa da vida"
+        ],
+        "correta": "terminei a corrida, guardei a fé",
+        "referencia": "2 Timóteo 4:7"
+    },
+    {
+        "pergunta": "Porque o amor ao dinheiro",
+        "alternativas": [
+            "é a raiz de toda a espécie de males",
+            "é a perdição dos homens",
+            "é o caminho para a destruição",
+            "é o inimigo da alma"
+        ],
+        "correta": "é a raiz de toda a espécie de males",
+        "referencia": "1 Timóteo 6:10"
+    },
+    {
+        "pergunta": "De sorte que a fé é pelo ouvir,",
+        "alternativas": [
+            "e o ouvir pela palavra de Deus",
+            "e o crer pelo Espírito",
+            "e o viver pela palavra",
+            "e o caminhar na luz"
+        ],
+        "correta": "e o ouvir pela palavra de Deus",
+        "referencia": "Romanos 10:17"
+    },
+    {
+        "pergunta": "Tudo posso",
+        "alternativas": [
+            "naquele que me fortalece",
+            "por Aquele que me dá forças",
+            "pela graça de Deus",
+            "pela fé em Cristo"
+        ],
+        "correta": "naquele que me fortalece",
+        "referencia": "Filipenses 4:13"
+    },
+    {
+        "pergunta": "Eis que estou à porta e bato;",
+        "alternativas": [
+            "se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa",
+            "aquele que abrir, eu cearei com ele",
+            "aquele que responder, terá vida eterna",
+            "se ouvirdes a minha voz, entrarei em sua casa"
+        ],
+        "correta": "se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa",
+        "referencia": "Apocalipse 3:20"
+    },
+    {
+        "pergunta": "E não nos cansemos de fazer o bem,",
+        "alternativas": [
+            "porque a seu tempo ceifaremos, se não houvermos desfalecido",
+            "porque o Senhor nos recompensará",
+            "porque a justiça de Deus prevalecerá",
+            "porque Deus é fiel para nos abençoar"
+        ],
+        "correta": "porque a seu tempo ceifaremos, se não houvermos desfalecido",
+        "referencia": "Gálatas 6:9"
+    },
+    {
+        "pergunta": "E conhecereis a verdade,",
+        "alternativas": [
+            "e a verdade vos libertará",
+            "e a verdade será a vossa luz",
+            "e a verdade vos guiará",
+            "e a verdade trará paz ao coração"
+        ],
+        "correta": "e a verdade vos libertará",
+        "referencia": "João 8:32"
+    },    
+    {
+        "pergunta": "Mas o justo viverá",
+        "alternativas": [
+            "pela fé",
+            "pela graça",
+            "pela verdade",
+            "pela palavra"
+        ],
+        "correta": "pela fé",
+        "referencia": "Hebreus 10:38"
+    },
+    {
+        "pergunta": "E a luz resplandece nas trevas,",
+        "alternativas": [
+            "e as trevas não a compreenderam",
+            "e as trevas não prevaleceram",
+            "e as trevas não a apagaram",
+            "e as trevas não a dominaram"
+        ],
+        "correta": "e as trevas não a compreenderam",
+        "referencia": "João 1:5"
+    },
+    {
+        "pergunta": "Vós sois o sal da terra;",
+        "alternativas": [
+            "e se o sal for insípido, com que se há de salgar?",
+            "e se a terra perder o sabor, com que se há de temperar?",
+            "e se o sal perder o sabor, com que se há de temperar?",
+            "e se a terra for insípida, como será salgada?"
+        ],
+        "correta": "e se o sal perder o sabor, com que se há de temperar?",
+        "referencia": "Mateus 5:13"
+    },
+    {
+        "pergunta": "Se confessarmos os nossos pecados,",
+        "alternativas": [
+            "ele é fiel e justo para nos perdoar os pecados",
+            "ele é bom e justo para nos purificar",
+            "ele é justo e fiel para nos restaurar",
+            "ele é misericordioso para nos perdoar"
+        ],
+        "correta": "ele é fiel e justo para nos perdoar os pecados",
+        "referencia": "1 João 1:9"
+    },
+    {
+        "pergunta": "Porque Deus enviou o seu Filho ao mundo",
+        "alternativas": [
+            "não para que condenasse o mundo, mas para que o mundo fosse salvo por ele",
+            "para que o mundo fosse salvo por ele",
+            "para que todos fossem salvos por ele",
+            "para que todos os que nele creem não pereçam"
+        ],
+        "correta": "não para que condenasse o mundo, mas para que o mundo fosse salvo por ele",
+        "referencia": "João 3:17"
+    },
+    {
+        "pergunta": "Amarás, pois, o Senhor teu Deus",
+        "alternativas": [
+            "de todo o teu coração, de toda a tua alma e de toda a tua força",
+            "e ao próximo como a ti mesmo",
+            "e guardarás os seus mandamentos",
+            "e andarás nos seus caminhos"
+        ],
+        "correta": "de todo o teu coração, de toda a tua alma e de toda a tua força",
+        "referencia": "Deuteronômio 6:5"
+    },
+    {
+        "pergunta": "Porque eu bem sei os pensamentos que penso de vós, diz o Senhor;",
+        "alternativas": [
+            "pensamentos de paz e não de mal, para vos dar o fim que esperais",
+            "pensamentos de amor e não de destruição",
+            "pensamentos de graça e não de ira",
+            "pensamentos de vida e não de morte"
+        ],
+        "correta": "pensamentos de paz e não de mal, para vos dar o fim que esperais",
+        "referencia": "Jeremias 29:11"
+    }
+]
